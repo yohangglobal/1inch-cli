@@ -9,7 +9,7 @@
     "id": 42161,
     "explorer": "https://arbiscan.io/",
     "currency": "ETH",
-    "rpc": "https://arb1.arbitrum.io/rpc"
+    "rpc": "https://endpoints.omniatech.io/v1/arbitrum/one/public"
   },
   "BSC": {
     "id": 56,
